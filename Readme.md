@@ -40,3 +40,6 @@ Follow the link or check the image in Week_3 folder <font color='red'> "1_how-do
 
  * [A classifier is linear if its decision boundary is linear in x space.](https://stats.stackexchange.com/questions/93569/why-is-logistic-regression-a-linear-classifier)
 Follow the link or check the image in Week_3 folder <font color='red'>"2_Why is logistic regression a linear classifier"</font>
+
+
+[Very Good Article --- Implementing a Neural Network from Scratch in Python – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
